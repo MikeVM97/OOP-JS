@@ -1,0 +1,16 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "POO",
+  "main": "POO-Clases.js",
+  "scripts": {
+    "ts": "ts-node POO-Clases.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
